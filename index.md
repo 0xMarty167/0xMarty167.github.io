@@ -4,15 +4,12 @@
 
 ```bash
 $ whoami
-
 marty167
 
-$ whoami \| more
-
+$ whoami | more
 Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
 Links:
-
 [THM](https://tryhackme.com/r/p/Marty167)
 
 
