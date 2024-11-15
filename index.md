@@ -9,8 +9,9 @@ marty167
 $ whoami | more
 Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
-Links:
+### Links:
 [THM](https://tryhackme.com/r/p/Marty167)
+[Credly](https://tryhackme.com/r/p/Marty167)
 
 
 ## Projects
