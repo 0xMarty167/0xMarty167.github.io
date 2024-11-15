@@ -1,15 +1,15 @@
-# Marty167's CyberSec space
-
 ## 🔒 About Me
 
 $ whoami
 
 marty167
 
-$ profession
+$ whoami | more
 
 Student & Cybersecurity Enthusiast & Ethical Hacker
 
-$ [THM:](https://tryhackme.com/r/p/Marty167)
+$ links
+[THM](https://tryhackme.com/r/p/Marty167)
 
 
+## Projects
