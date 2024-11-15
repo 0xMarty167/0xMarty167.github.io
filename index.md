@@ -4,7 +4,7 @@ $ whoami
 
 marty167
 
-$ whoami | more
+$ whoami \| more
 
 Student & Cybersecurity Enthusiast & Ethical Hacker
 
