@@ -1,9 +1,15 @@
+# Marty167's CyberSec space
+
 ## 🔒 About Me
 
-```bash
 $ whoami
+
 marty167
+
 $ profession
-Cybersecurity Enthusiast & Ethical Hacker
-$ location
-Virtual Underground
+
+Student & Cybersecurity Enthusiast & Ethical Hacker
+
+$ [THM:](https://tryhackme.com/r/p/Marty167)
+
+
