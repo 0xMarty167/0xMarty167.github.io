@@ -10,7 +10,7 @@ $ whoami | more
 Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
 
-## 🏅 Qualifications
+## 🏅 Qualifications & Profiles
 
 **Links:**
 [THM](https://tryhackme.com/r/p/Marty167)
