@@ -9,6 +9,7 @@ Ransomware attacks have become more accessible to cybercriminals thanks to the r
 ## 2. 🤖 **AI-Powered Phishing Attacks**
 
 Artificial Intelligence (AI) is a double-edged sword in cybersecurity. While it helps in detecting and preventing threats, malicious actors are leveraging AI to craft highly convincing phishing emails and messages. These AI-powered phishing attacks can mimic legitimate communications with unprecedented accuracy, making it harder for individuals to discern genuine requests from fraudulent ones.
+![Image FraudGPT](./DALL·E 2024-11-16 10.53.22 - A conceptual digital artwork of 'FraudGPT,' an ominous and mysterious artificial intelligence character. It is depicted as a menacing, shadowy figure .webp)
 
 ## 3. 🔗 **Supply Chain Attacks**
 
