@@ -13,6 +13,8 @@ Student & Cybersecurity Enthusiast & Ethical Hacker
 [THM](https://tryhackme.com/r/p/Marty167)
 [Credly](https://tryhackme.com/r/p/Marty167)
 
+**Certs**
+CCNA, ISC2 Candidate 
 
 ## 📚 Projects
 
