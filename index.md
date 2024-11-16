@@ -11,9 +11,9 @@ Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
 **Links:**
 [THM](https://tryhackme.com/r/p/Marty167)
-[Credly](https://tryhackme.com/r/p/Marty167)
+[HTB](https://app.hackthebox.com/profile/963995)
 
-**Certs**
+**Certifications:**
 CCNA, ISC2 Candidate 
 
 ## 📚 Projects
