@@ -1,5 +1,5 @@
 # Marty167's CyberSec space
- This is a hub for sharing my journey, projects, and insights into the world of ethical hacking, threat analysis, and system defense.
+ This is a hub for sharing my journey, projects, and insights into the world of ethical hacking and general cybersecurity.
 ## 🔒 About Me
 
 ```bash
@@ -10,9 +10,9 @@ $ whoami | more
 Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
 
-## 🏅 Qualifications & Profiles
+## 🏅 Qualifications
 
-**Links:**
+**CTFs & learning:**
 [THM](https://tryhackme.com/r/p/Marty167)
 [HTB](https://app.hackthebox.com/profile/963995)
 
