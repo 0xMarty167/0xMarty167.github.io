@@ -14,8 +14,8 @@ Student & Cybersecurity Enthusiast & Ethical Hacker
 [Credly](https://tryhackme.com/r/p/Marty167)
 
 
-## Projects
+## 📚 Projects
 
-## Blogs
+## 📝 Blogs
 
 [Top 10 Cybersecurity Threats in 2024](./blogs/Top_10_Cybersecurity_Threats_in_2024.md)
