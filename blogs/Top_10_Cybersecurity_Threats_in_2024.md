@@ -49,4 +49,4 @@ The cybersecurity landscape in 2024 is marked by increasing complexity and sophi
 
 ---
 
-*Stay ahead of the curve by subscribing to our newsletter for the latest insights and updates on cybersecurity trends and best practices.* 📩
+*Stay ahead of the curve by following me for the latest insights and updates on cybersecurity trends and best practices.* 📩
