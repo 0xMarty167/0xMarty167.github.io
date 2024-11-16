@@ -9,6 +9,9 @@ marty167
 $ whoami | more
 Student & Cybersecurity Enthusiast & Ethical Hacker
 ```
+
+## 🏅 Qualifications
+
 **Links:**
 [THM](https://tryhackme.com/r/p/Marty167)
 [HTB](https://app.hackthebox.com/profile/963995)
