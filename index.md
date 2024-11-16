@@ -18,6 +18,8 @@ CCNA, ISC2 Candidate
 
 ## 📚 Projects
 
+- Port Scanner [Dolon](https://github.com/Marty167-sec/dolon)
+
 ## 📝 Blogs
 
  - [Top 10 Cybersecurity Threats in 2024](./blogs/Top_10_Cybersecurity_Threats_in_2024.md)
