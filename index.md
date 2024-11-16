@@ -18,7 +18,8 @@ CCNA, ISC2 Candidate
 
 ## 📚 Projects
 
-- Port Scanner [Dolon](https://github.com/Marty167-sec/dolon)
+- [Dolon](https://github.com/Marty167-sec/dolon)
+  Quick port scanner in C, my first project
 
 ## 📝 Blogs
 
