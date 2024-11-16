@@ -14,7 +14,7 @@ Student & Cybersecurity Enthusiast & Ethical Hacker
 [HTB](https://app.hackthebox.com/profile/963995)
 
 **Certifications:**
-CCNA, ISC2 Candidate 
+CCNA, ISC2 Candidate, ECDL
 
 
 ## 📚 Projects
