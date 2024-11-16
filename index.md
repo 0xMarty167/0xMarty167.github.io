@@ -1,5 +1,5 @@
 # Marty167's CyberSec space
-ISC2 Candidate, CyberSec student
+ This is a hub for sharing my journey, projects, and insights into the world of ethical hacking, threat analysis, and system defense.
 ## 🔒 About Me
 
 ```bash
