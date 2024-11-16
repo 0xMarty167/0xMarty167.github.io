@@ -20,4 +20,4 @@ CCNA, ISC2 Candidate
 
 ## 📝 Blogs
 
-[Top 10 Cybersecurity Threats in 2024](./blogs/Top_10_Cybersecurity_Threats_in_2024.md)
+ - [Top 10 Cybersecurity Threats in 2024](./blogs/Top_10_Cybersecurity_Threats_in_2024.md)
