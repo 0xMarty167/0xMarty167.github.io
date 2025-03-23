@@ -14,7 +14,7 @@ Student & Cybersecurity Enthusiast & Ethical Hacker
 
 **CTFs & learning:**
 [THM](https://tryhackme.com/r/p/Marty167)
-[HTB](https://app.hackthebox.com/profile/963995)
+[HTB](https://app.hackthebox.com/profile/963995) | Jr Penetration Tester, Web Fundamentals, ...
 
 **Certifications:**
 CCNA, THM - Intro to Cybersecurity, ISC2 Candidate, ECDL
